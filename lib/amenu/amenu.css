@@ -2,6 +2,10 @@
     word-wrap: normal;
 }
 
+.amenu__item:last-child {
+    margin-right: 0;
+} 
+
 .amenu__burger {
     position: relative;
 }
